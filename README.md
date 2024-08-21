@@ -1,3 +1,7 @@
+# *This repo has been superseded*
+
+This repo was intended to showcase the code behind record solutions. This is now implemented in the official [wiki leaderboard](https://www.reddit.com/r/exapunks/wiki/index/). All records here can be found on the leaderboard.
+
 # Exapunks Records
 
 A collection of record solutions for Exapunks, by Bacardi (u/bmidtvedt) and Grimmy (u/Grimy_).
